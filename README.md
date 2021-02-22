@@ -1,10 +1,10 @@
 # Prueba de Fronted para MASIVIAN
 # Julian Enrique Polo
 
-## Esto consiste en una pagina web que carga commics aleatorios y estos se pueden rankear mediante estrellas
+## Esto consiste en una pagina web que carga cómics aleatorios y estos se pueden rankear mediante estrellas
 
-## Prerequisitos
-+ Se requiere tener instalado algun servidor de php puede ser [xamp](https://www.apachefriends.org/es/index.html), [wamp](https://www.wampserver.com/en/), apache
+## Prerrequisitos
++ Se requiere tener instalado algún servidor de php puede ser [xamp](https://www.apachefriends.org/es/index.html), [wamp](https://www.wampserver.com/en/), apache
 + Se requiere tener instalado php 7.3+
 
 Ejecución
