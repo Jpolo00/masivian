@@ -13,7 +13,7 @@
 <body>
     <nav>
         <div class="nav-wrapper teal">
-            <a href="#" class="brand-logo">Comics Aleatorios Masivian</a>
+            <a href="#" class="brand-logo">Comics Aleatorios Masivian -- Julian Polo</a>
         </div>
     </nav>
     <div class="container">
