@@ -16,3 +16,6 @@ php artisan serve
 ```
 
 Se ejecutara el servidor web en el puerto 8000, se puede acceder por la url [127.0.0.1:8000](http://127.0.0.1:8000)
+
+
+O se puede acceder mediante la url [http://31.220.61.39/](http://31.220.61.39/)
