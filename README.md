@@ -12,4 +12,4 @@ Ejecución
 + Se debe ingresar a la carpeta del proyecto mediante consola
 + Ejecutar el comando php artisan serve
 
-Se ejecutara el servidor web en el puerto 8000, se puede acceder por la url [127.0.0.1:8000](127.0.0.1:8000)
+Se ejecutara el servidor web en el puerto 8000, se puede acceder por la url [127.0.0.1:8000](http://127.0.0.1:8000)
